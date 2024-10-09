@@ -11,7 +11,6 @@
   - [Feature Engineering](#feature-engineering)
   - [Model Selection](#model-selection)
   - [Model Training and Evaluation](#model-training-and-evaluation)
-- [Results](#results)
 - [Conclusion](#conclusion)
 - [Future Work](#future-work)
 - [How to Run the Project](#how-to-run-the-project)
@@ -72,12 +71,6 @@ The models considered for this project include:
   - **R² Score**
 - Perform hyperparameter tuning using techniques like GridSearchCV or RandomSearchCV.
 
-## Results
-- **Best Performing Model**: Random Forest Regressor achieved an RMSE of **X** and an R² score of **Y**.
-- **Model Performance**:
-  - Linear Regression: RMSE = **X**, R² = **Y**
-  - Random Forest: RMSE = **X**, R² = **Y**
-  - Gradient Boosting: RMSE = **X**, R² = **Y**
 
 ## Conclusion
 This project successfully predicted house prices using machine learning models. The Random Forest Regressor model outperformed others in terms of RMSE and R² score. However, there is still room for improvement by experimenting with additional features and advanced models.
