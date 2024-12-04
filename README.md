@@ -1,4 +1,4 @@
-# House Price Prediction
+# House_Price_Prediction
 
 ## Table of Contents
 - [Introduction](#introduction)
